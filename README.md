@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ASWIN DEV</h1>
+<h1 align="center">Hi 👋, I'm Aswin Dev</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p
@@ -23,9 +23,11 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 
-<p><img align="center" 
+<p>
+ <img align="center" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=aswindevpk&show_icons=true&locale=en&layout=compact"
- alt="aswindevpk" /></p>
+ alt="aswindevpk" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p
